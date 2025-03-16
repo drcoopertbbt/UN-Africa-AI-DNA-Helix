@@ -6,7 +6,7 @@ This project represents a cognitive architecture that mimics the unfolding of DN
 
 - Instead of training on snapshots of static data, the AI interacts with an adaptive graph-based taxonomy that evolves as context changes, creating a dynamic knowledge network.
 - Rather than compressing knowledge into weights, it navigates and reconstructs meaning dynamically.
-- Instead of retrieving answers from “inside the model,” it follows the flow of ideas, discovering emergent connections and feeding an Atomic Language Model.
+- Instead of retrieving answers from "inside the model," it follows the flow of ideas, discovering emergent connections and feeding an Atomic Language Model.
 
 
 Externalization of Data - Inside Out Model
@@ -23,9 +23,9 @@ This vision is not just theoretical—it is designed for real-world impact. Our 
 
 **How It Works**  
 
-**Externalized Knowledge Base:** Instead of embedding all information within a model’s static weights, we structure and retrieve knowledge dynamically from a **highly scoped domain**—a 10,000-line RDF taxonomy and knowledge graph that adapts in real time.  
+**Externalized Knowledge Base:** Instead of embedding all information within a model's static weights, we structure and retrieve knowledge dynamically from a **highly scoped domain**—a 10,000-line RDF taxonomy and knowledge graph that adapts in real time.  
 
-**Atomic Language Models:** These models are designed for efficiency, operating at a fraction of the size of traditional LLMs. Rather than trying to “know everything,” they specialize in fetching, interpreting, and delivering targeted insights.  
+**Atomic Language Models:** These models are designed for efficiency, operating at a fraction of the size of traditional LLMs. Rather than trying to "know everything," they specialize in fetching, interpreting, and delivering targeted insights.  
 
 **On-Demand AI Conversations:** By integrating with BM25 search, structured graphs, and real-time data, AI interactions become more precise, contextual, and useful—tailored specifically to what agronomists need in the field.  
 
@@ -39,7 +39,26 @@ This approach **redefines how AI serves knowledge**—moving away from the brute
 
 The future of AI is **not just about bigger models, but smarter, more accessible systems.** This is **human-centered AI**, built for real-world impact.  
 
-.
+## Integrated State and Data Curation Architecture
+
+Our approach combines three powerful elements to create an embedded, lightweight AI experience:
+
+**1. Application State Management**
+- Real-time context tracking and user interaction flows
+- Dynamic state updates that inform AI responses
+- Controlled data flow pathways that maintain context relevance
+
+**2. Curated Knowledge Integration** 
+- [Domain-Specific Knowledge Graphs](knowledge-graphs.md) that evolve with community needs
+- [Community-Driven Data Curation](data-curation.md) ensuring local relevance
+- Precision-focused data selection over broad knowledge bases
+
+**3. DNA Helix AI Integration**
+- Lightweight AI that leverages application state
+- Context-aware processing using curated knowledge
+- Real-time adaptation to user needs and community patterns
+
+This integration creates a tightly-scoped environment where AI capabilities emerge from the synergy between active state management and carefully curated data, rather than from massive model parameters. The result is an AI system that's both lightweight and deeply embedded in the actual needs of our agricultural communities.
 
 ## Additional Resources
 - [Data Curation for African Growers](data-curation-african-growers.md)
