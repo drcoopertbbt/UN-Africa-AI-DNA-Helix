@@ -14,4 +14,6 @@ A final policy workshop was conducted in collaboration with the Africa Fertilize
 
 As part of our efforts, we trained 111 extension officers and agro-dealers in the use of legume inputs. We also conducted a student workshop to share experiences and findings in preparation for manuscript development, supporting the work of five MSc students in their studies.
 
-These initiatives are vital for enhancing agricultural practices and ensuring that growers have access to the knowledge and resources they need to succeed.
+The application serves as a comprehensive platform where growers can log in, track meetings, and continue their conversations. Each user has their own profile, allowing them to collaborate on meeting notes and share important documents. This functionality enhances the effectiveness of local grower meetups, making it easier for participants to stay connected and informed.
+
+These initiatives, combined with the application, are vital for enhancing agricultural practices and ensuring that growers have access to the knowledge and resources they need to succeed.
