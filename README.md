@@ -40,3 +40,7 @@ This approach **redefines how AI serves knowledge**—moving away from the brute
 The future of AI is **not just about bigger models, but smarter, more accessible systems.** This is **human-centered AI**, built for real-world impact.  
 
 .
+
+## Additional Resources
+- [Data Curation for African Growers](data-curation-african-growers.md)
+- [Local Grower Meetups](local-grower-meetups.md)
