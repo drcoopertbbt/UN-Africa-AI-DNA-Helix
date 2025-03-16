@@ -34,8 +34,9 @@ This vision is not just theoretical—it is designed for real-world impact. Our 
 **Lightweight Processing, Broader Accessibility:** By shifting computation away from heavy model inference and onto structured retrieval, we make AI insights accessible **without requiring high-end GPUs or cloud-based supercomputing.**  
 
 **Sustainable AI for African Growers**
-  
+
 This approach **redefines how AI serves knowledge**—moving away from the brute-force power of massive models toward **intelligent, efficient, and highly contextualized AI.** For agronomists and growers working in regions with limited computational resources, this means access to **on-demand, curated, and precise agricultural intelligence—when and where they need it.**  
 
 The future of AI is **not just about bigger models, but smarter, more accessible systems.** This is **human-centered AI**, built for real-world impact.  
 
+.
