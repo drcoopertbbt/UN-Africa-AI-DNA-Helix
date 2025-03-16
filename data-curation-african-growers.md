@@ -14,10 +14,10 @@ Through partnerships with organizations like the Africa Fertilizer and Agribusin
 
 Here are some important websites that provide valuable information and resources for African growers:
 
-1. [Website 1](#) - Description of the website and its relevance.
-2. [Website 2](#) - Description of the website and its relevance.
-3. [Website 3](#) - Description of the website and its relevance.
-4. [Website 4](#) - Description of the website and its relevance.
+1. [CABI Project](https://www.cabi.org/projects/scaling-up-improved-legume-technologies-in-tanzania-silt/) - Scaling up improved legume technologies in Tanzania.
+2. [N2Africa](https://www.n2africa.org/) - A project focused on improving legume productivity.
+3. [Yield Gap](https://www.yieldgap.org/home) - A tool for assessing yield gaps in agriculture.
+4. [Link to Examples](#) - Examples of data curation in agriculture.
 
 ## Examples of Data Curation
 
